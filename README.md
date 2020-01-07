@@ -1,2 +1,2 @@
-# fink_demo
+# flink_demo
 flink demo
